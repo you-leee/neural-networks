@@ -1,0 +1,21 @@
+What is the loss on the training data for that test run? Write your answer with at least 5 digits after the decimal point.
+2.302585
+
+What is the training data loss that that run reports at the end? Use at least 5 digits after the decimal point.
+2.303441
+
+Which of those 14 worked best?
+Was the best run a run with momentum or without momentum?
+WITH momentum
+
+
+What was the learning rate for the best of those 14 runs?
+0.2
+
+
+What is the validation data classification loss now? Write your answer with at least 5 digits after the decimal point.
+0.430185
+
+
+What is the validation data classification loss now, i.e. with early stopping? 
+0.334505
